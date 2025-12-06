@@ -5,7 +5,7 @@ Welcome to my technical writing portfolio. With 10 years of experience in engine
 
 ## 📂 Documentation Samples
 
-### 1. [End-User Guide: HandBrake Installation](./handbrake-guide.md)
+### 1. [End-User Guide: HandBrake Installation](./handbrake_guide.md)
 A comprehensive guide for Windows users covering installation, GUI setup, and troubleshooting.
 * **Skills:** MSTP Standards, Accessibility, Screenshot Annotation.
 * **Audience:** Non-technical end-users.
