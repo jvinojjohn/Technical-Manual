@@ -110,7 +110,7 @@ To confirm the tool is recognized by the system:
 ### 3. Basic CLI Usage Example
 To transcode a video file using the default "Fast 1080p30" preset, run the following command:
     
-    "HandBrakeCLI.exe -i "C:\Source\video.mov" -o "C:\Output\movie.mp4" --preset "Fast 1080p30"
+    HandBrakeCLI.exe -i "C:\Source\video.mov" -o "C:\Output\movie.mp4" --preset "Fast 1080p30
 
 | Flag | Description |
 | :--- | :--- |
