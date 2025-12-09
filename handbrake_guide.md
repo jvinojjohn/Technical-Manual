@@ -103,7 +103,8 @@ To confirm the tool is recognized by the system:
    "HandBrakeCLI.exe --version"
 
 * **Expected Output:** `HandBrake X.X.X (version)`
-<img width="1113" height="563" alt="image" src="https://github.com/user-attachments/assets/0febd9e6-038e-4c16-aa6f-88b38d383987" />
+
+<img width="1113" height="561" alt="image" src="https://github.com/user-attachments/assets/fd0f0ab9-d227-400a-ad65-5548fada7f8f" />
 
 
 ### 3. Basic CLI Usage Example
