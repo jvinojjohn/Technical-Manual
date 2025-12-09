@@ -47,27 +47,27 @@ Before installing HandBrake, ensure your system meets the following requirements
 ## Installing HandBrake
 1. Locate the downloaded executable file in your **Downloads** folder.
 
-2. Double-click the file to start the installation wizard.
+1. Double-click the file to start the installation wizard.
 
    > **Note:** If the **User Account Control** dialog box appears, asking if you want to allow this app to make changes to your device, select **Yes**.
 
-3. On the **Welcome to HandBrake Setup** screen, select **Next** to continue.
+1. On the **Welcome to HandBrake Setup** screen, select **Next** to continue.
 
     <img width="499" height="388" alt="HandBrake Setup Welcome Screen" src="https://github.com/user-attachments/assets/178ac8e2-b263-463d-b26c-ce57ac6a5d02" />
 
-4. Review the License Agreement. If you agree to the terms, select **Next**.
+1. Review the License Agreement. If you agree to the terms, select **Next**.
 
-5. On the **Choose Install Location** screen, accept the default destination folder or select **Browse** to specify a different location.
+1. On the **Choose Install Location** screen, accept the default destination folder or select **Browse** to specify a different location.
 
-6. Select **Install**.
+1. Select **Install**.
   
 <img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/e15d5c1a-839e-499f-8344-888ec356e112" />
 
-7. Once the installation is complete, the **Completing the HandBrake Setup Wizard** screen appears.
+1. Once the installation is complete, the **Completing the HandBrake Setup Wizard** screen appears.
 
-8. Select the **Create Desktop Shortcut** check box if you want a shortcut on your desktop.
+1. Select the **Create Desktop Shortcut** check box if you want a shortcut on your desktop.
 
-9. Select **Finish** to close the wizard.
+1. Select **Finish** to close the wizard.
 
 ---
 
