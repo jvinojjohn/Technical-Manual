@@ -97,10 +97,10 @@ To confirm the tool is recognized by the system:
 1. Press the **Windows logo key** + **R**, type `cmd`, and press **Enter**.
 2. Navigate to the directory where you extracted the binary:
    ```cmd
-   cd "C:\Program Files\HandBrakeCLI"
+   cd C:\Program Files\HandBrakeCLI
 3. Run the version command:
    ```cmd
-   "HandBrakeCLI.exe --version"
+   HandBrakeCLI.exe --version
 
 * **Expected Output:** `HandBrake X.X.X (version)`
 
