@@ -87,8 +87,8 @@ To ensure HandBrake is installed and functioning correctly:
 For users requiring batch processing or automation capabilities, the HandBrake Command Line Interface (CLI) is recommended.
 
 ### 1. Downloading the CLI
-1. Navigate to the [HandBrake CLI Downloads](https://handbrake.fr/downloads.php) page.
-2. Download the `HandBrakeCLI-1.8.2-win-x86_64.zip` file.
+1. Navigate to the [HandBrake CLI Downloads](https://handbrake.fr/downloads2.php) page.
+2. Download the Windows CLI `HandBrakeCLI-X.X.X-win-x86_64.zip` file.
 3. Extract the contents to a dedicated directory (e.g., `C:\Program Files\HandBrakeCLI`).
 
 ### 2. Verifying the CLI Installation
@@ -102,7 +102,9 @@ To confirm the tool is recognized by the system:
    ```cmd
    "HandBrakeCLI.exe --version"
 
-* **Expected Output:** `HandBrake 1.8.2 (2025090500)`
+* **Expected Output:** `HandBrake X.X.X (version)`
+<img width="1113" height="563" alt="image" src="https://github.com/user-attachments/assets/0febd9e6-038e-4c16-aa6f-88b38d383987" />
+
 
 ### 3. Basic CLI Usage Example
 To transcode a video file using the default "Fast 1080p30" preset, run the following command:
@@ -116,6 +118,7 @@ To transcode a video file using the default "Fast 1080p30" preset, run the follo
 | `--preset` | **Profile:** The specific transcoding profile to apply (must be enclosed in quotes). |
  
 > **Tip:** To view a full list of available presets, run `HandBrakeCLI.exe --preset-list`.
+
 ---
 
 ## Troubleshooting
