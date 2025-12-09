@@ -9,12 +9,12 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
-- [Downloading HandBrake](#downloading-handBrake)
-- [Installing HandBrake](#Installing-HandBrake)
-- [Verify the Installation](#Verify-the-Installation)
-- [Advanced: Installing HandBrake CLI](#Advanced-Installing-HandBrake-CLI)
-- [Troubleshooting](#Troubleshooting)
-- [Version History](#Version-History)
+- [Downloading HandBrake](#downloading-handbrake)
+- [Installing HandBrake](#installing-handbrake)
+- [Verify the Installation](#verify-the-installation)
+- [Advanced: Installing HandBrake CLI](#advanced-installing-handbrake-cli)
+- [Troubleshooting](#troubleshooting)
+- [Version History](#version-history)
 - [Downloads](#downloads)
 
 ---
