@@ -99,13 +99,11 @@ To confirm the tool is recognized by the system:
 
 1. Press the **Windows logo key** + **R**, type `cmd`, and press **Enter**.
 2. Navigate to the directory where you extracted the binary:
-   ```cmd
-   cd C:\Program Files\HandBrakeCLI
-   ```
-3. Run the version command:
-   ```cmd
-   HandBrakeCLI.exe --version
-   ```
+   
+   ```cd C:\Program Files\HandBrakeCLI```
+4. Run the version command:
+   
+   ```HandBrakeCLI.exe --version```
 
 * **Expected Output:** `HandBrake X.X.X (version)`
 
@@ -113,10 +111,10 @@ To confirm the tool is recognized by the system:
 
 
 ### Basic CLI Usage Example
-To transcode a video file using the default "Fast 1080p30" preset, run the following command:  
-    ```cmd
-    HandBrakeCLI.exe -i "C:\Source\video.mov" -o "C:\Output\movie.mp4" --preset "Fast 1080p30
-    ```
+To transcode a video file using the default "Fast 1080p30" preset, run the following command:
+
+   ```HandBrakeCLI.exe -i "C:\Source\video.mov" -o "C:\Output\movie.mp4" --preset "Fast 1080p30```
+    
 | Flag | Description |
 | :--- | :--- |
 | `-i` | **Input:** The path to the source video file. |
