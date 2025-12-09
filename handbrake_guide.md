@@ -61,7 +61,7 @@ Before installing HandBrake, ensure your system meets the following requirements
 
 1. Select **Install**.
   
-<img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/e15d5c1a-839e-499f-8344-888ec356e112" />
+    <img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/e15d5c1a-839e-499f-8344-888ec356e112" />
 
 1. Once the installation is complete, the **Completing the HandBrake Setup Wizard** screen appears.
 
