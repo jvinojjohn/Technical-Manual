@@ -118,7 +118,7 @@ To transcode a video file using the default "Fast 1080p30" preset, run the follo
 | `-o` | **Output:** The destination path for the converted file. |
 | `--preset` | **Profile:** The specific transcoding profile to apply (must be enclosed in quotes). |
  
-> **Tip:** To view a full list of available presets, run `HandBrakeCLI.exe --preset-list`.
+ >**Tip:** To view a full list of available presets, run `HandBrakeCLI.exe --preset-list`.
 
 ---
 
