@@ -53,7 +53,7 @@ Before installing HandBrake, ensure your system meets the following requirements
 
 3. On the **Welcome to HandBrake Setup** screen, select **Next** to continue.
 
-  <img width="499" height="388" alt="HandBrake Setup Welcome Screen" src="https://github.com/user-attachments/assets/178ac8e2-b263-463d-b26c-ce57ac6a5d02" />
+    <img width="499" height="388" alt="HandBrake Setup Welcome Screen" src="https://github.com/user-attachments/assets/178ac8e2-b263-463d-b26c-ce57ac6a5d02" />
 
 4. Review the License Agreement. If you agree to the terms, select **Next**.
 
