@@ -61,7 +61,7 @@ Before installing HandBrake, ensure your system meets the following requirements
 
 1. Select **Install**.
   
-    <img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/e15d5c1a-839e-499f-8344-888ec356e112" />
+    <img width="499" height="388" alt="Installation Progress Window" src="https://github.com/user-attachments/assets/e15d5c1a-839e-499f-8344-888ec356e112" />
 
 1. Once the installation is complete, the **Completing the HandBrake Setup Wizard** screen appears.
 
@@ -78,7 +78,7 @@ To ensure HandBrake is installed and functioning correctly:
 
 2. Type **HandBrake** and select the application from the search results.
 
-    <img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/6a45ce05-b83d-4ac9-aa00-c1a21942c0fa" />
+    <img width="499" height="388" alt="Handbrake application displayed in Start menu" src="https://github.com/user-attachments/assets/6a45ce05-b83d-4ac9-aa00-c1a21942c0fa" />
 
 3. Verify that the application window opens and displays the **Source Selection** pane.
 
@@ -104,7 +104,7 @@ To confirm the tool is recognized by the system:
 
 * **Expected Output:** `HandBrake X.X.X (version)`
 
-    <img width="1113" height="561" alt="image" src="https://github.com/user-attachments/assets/fd0f0ab9-d227-400a-ad65-5548fada7f8f" />
+    <img width="1113" height="561" alt="Command window" src="https://github.com/user-attachments/assets/fd0f0ab9-d227-400a-ad65-5548fada7f8f" />
 
 
 ### 3. Basic CLI Usage Example
