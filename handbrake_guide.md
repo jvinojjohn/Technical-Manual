@@ -9,7 +9,8 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
-- [Downloading HandBrake](#Downloading-HandBrake)
+- [Downloading HandBrake](#downloading-handBrake)
+- [Installing HandBrake](#Installing-HandBrake)
 - [Verify the Installation](#Verify-the-Installation)
 - [Advanced: Installing HandBrake CLI](#Advanced-Installing-HandBrake-CLI)
 - [Troubleshooting](#Troubleshooting)
@@ -59,10 +60,8 @@ Before installing HandBrake, ensure your system meets the following requirements
 5. On the **Choose Install Location** screen, accept the default destination folder or select **Browse** to specify a different location.
 
 6. Select **Install**.
-
   
 <img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/e15d5c1a-839e-499f-8344-888ec356e112" />
-
 
 7. Once the installation is complete, the **Completing the HandBrake Setup Wizard** screen appears.
 
@@ -75,15 +74,13 @@ Before installing HandBrake, ensure your system meets the following requirements
 
 ## Verify the Installation  
 To ensure HandBrake is installed and functioning correctly:
-1. Select the **Start** button or press the **Windows logo key**.  
+1. Select the **Start** button or select the **Windows logo key**.  
 
 2. Type **HandBrake** and select the application from the search results.
 
 <img width="499" height="388" alt="image" src="https://github.com/user-attachments/assets/6a45ce05-b83d-4ac9-aa00-c1a21942c0fa" />
 
-
 3. Verify that the application window opens and displays the **Source Selection** pane.
- 
 
 ---
 ## Advanced: Installing HandBrake CLI
