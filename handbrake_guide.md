@@ -55,6 +55,12 @@ Before installing HandBrake, ensure your system meets the following requirements
 
     <img width="499" height="388" alt="HandBrake Setup Welcome Screen" src="https://github.com/user-attachments/assets/178ac8e2-b263-463d-b26c-ce57ac6a5d02" />
 
+<ol start="4">
+  <li>Review the License Agreement. If you agree to the terms, select **Next**.</li>
+  <li>On the **Choose Install Location** screen, accept the default destination folder or select **Browse** to specify a different location.</li>
+  <li>Select **Install**.</li>
+</ol>
+
 1. Review the License Agreement. If you agree to the terms, select **Next**.
 
 1. On the **Choose Install Location** screen, accept the default destination folder or select **Browse** to specify a different location.
