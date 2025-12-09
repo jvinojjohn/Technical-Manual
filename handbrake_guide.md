@@ -42,7 +42,9 @@ Before installing HandBrake, ensure your system meets the following requirements
 1. Open your browser and go to
 [HandBrake website](https://handbrake.fr/)
 `(https://handbrake.fr/)`.
-2. On the home page, select the red **Download HandBrake** button.  
+
+3. On the home page, select the red **Download HandBrake** button.
+  
 2. Save the installer file (e.g., `HandBrake-1.8.2-x86_64-Win_GUI.exe`) to your Downloads folder. 
 
 ---
@@ -91,14 +93,17 @@ For users requiring batch processing or automation capabilities, the HandBrake C
 
 ### Downloading the CLI
 1. Navigate to the [HandBrake CLI Downloads](https://handbrake.fr/downloads2.php) page.
-2. Download the Windows CLI `HandBrakeCLI-X.X.X-win-x86_64.zip` file.
-3. Extract the contents to a dedicated directory (e.g., `C:\Program Files\HandBrakeCLI`).
+
+3. Download the Windows CLI `HandBrakeCLI-X.X.X-win-x86_64.zip` file.
+
+5. Extract the contents to a dedicated directory (e.g., `C:\Program Files\HandBrakeCLI`).
 
 ### Verifying the CLI Installation
 To confirm the tool is recognized by the system:
 
 1. Press the **Windows logo key** + **R**, type `cmd`, and press **Enter**.
-2. Navigate to the directory where you extracted the binary:
+
+3. Navigate to the directory where you extracted the binary:
    
    ```cd C:\Program Files\HandBrakeCLI```
 4. Run the version command:
