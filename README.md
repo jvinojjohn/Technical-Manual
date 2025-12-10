@@ -15,7 +15,7 @@ An advanced guide for system administrators detailing how to use the Command Lin
 * **Skills:** Command Line (Bash/CMD), Process Automation.
 * **Audience:** DevOps & Power Users.
 
-### 3. [API Reference: SoundDate User Profile](./sounddate_api.md)
+### 3. [API Reference: SoundDate User Profile](./SoundDate_API.md)
 A RESTful API reference documenting endpoints for managing user media.
 * **Skills:** REST Architecture, JSON payloads, Error Handling logic.
 * **Audience:** Full-stack Developers.
