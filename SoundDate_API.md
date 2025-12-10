@@ -22,6 +22,7 @@ Uploads a sound file to the User Profile.
 | N/A | | | | |
 
 ### Headers
+
 | Header Name | Required | Value | Description |
 | :--- | :--- | :--- | :--- |
 | `Authorization` | Yes | See Authorization section | The access token for the user session. |
