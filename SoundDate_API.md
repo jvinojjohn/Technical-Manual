@@ -1,6 +1,6 @@
 # API Documentation: SoundDate Profile Audio
 
-[📥 **Download this documentation as a Word File (.docx)**](./[API Documentation Sample - Vinoj]([https://github.com/jvinojjohn/Technical-Manual/blob/main/API%20Documentation%20Sample%20-%20Vinoj.docx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjvinojjohn%2FTechnical-Manual%2Frefs%2Fheads%2Fmain%2FAPI%2520Documentation%2520Sample%2520-%2520Vinoj.docx&wdOrigin=BROWSELINK)
+[📥 **Download this documentation as a Word File (.docx)**](./[API Documentation Sample - Vinoj]([https://github.com/jvinojjohn/Technical-Manual/raw/main/API-Documentation-Sample-Vinoj.docx)
 
 **Base URL:** `https://api.sounddate.com`
 
