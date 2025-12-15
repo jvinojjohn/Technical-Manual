@@ -16,12 +16,12 @@ My expertise is unique because I speak both languages:
 ## 📂 Portfolio Highlights
 
 ### 🛠️ Hardware & Engineering (S1000D / ATA Standards)
-*Leveraging my background at Quest Global & Lionbridge to document avionics and heavy machinery.*
+*Leveraging my background at Sonovision Aetos & Lionbridge to document avionics and heavy machinery.*
 
 #### [1. Service Manual: Titan-X5 Optical Inspection Unit](./titan_x5_optical_inspection_unit.md)
 A regulatory-compliant service manual for a high-voltage industrial inspection machine.
 * **Skills Applied:** Risk Assessment (**ANSI Z535**), LOTO procedures, Maintenance Logic.
-* **Standards:** **ASD-STE100** (Simplified Technical English), ISO 7010.
+* **Standards:** **ASD-STE100** (Simplified Technical English)
 * **Audience:** Field Service Engineers (FSE) & Maintenance Technicians.
 
 ### 💻 Software & DITA/XML (Semiconductor Domain)
@@ -48,11 +48,11 @@ A RESTful API reference documenting endpoints for user media management.
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Standards** | **S1000D**, **ATA iSpec 2200**, **ASD-STE100**, ANSI Z535 |
-| **Authoring** | **Oxygen XML Editor** (IXIASOFT CCMS), Adobe FrameMaker, MS Word |
+| **Standards** | **S1000D**, **ATA iSpec 2200**, **ASD-STE100** |
+| **Authoring** | **Oxygen XML Editor** (IXIASOFT CCMS), Adobe FrameMaker, ArborText Editor, MS Word |
 | **Graphics** | **PTC Creo** (3D), AutoCAD, Snagit, MS Visio |
 | **Tech Stack** | **DITA XML**, **API (REST/JSON)**, Markdown, Git/GitHub |
-| **Multimedia** | Adobe Captivate (Video Documentation) |
+| **Multimedia** | Camtasia (Video Documentation) |
 
 ---
 
