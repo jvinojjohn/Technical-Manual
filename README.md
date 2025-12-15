@@ -1,6 +1,5 @@
 # Vinoj John
 **Senior Technical Writer | Hardware & Software Documentation Specialist**
-📍 Chennai, India | [LinkedIn](#) | [Email Me](mailto:vinoj.mary@gmail.com)
 
 ---
 
