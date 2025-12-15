@@ -13,7 +13,7 @@
 
 | Revision | Date | ECO # | Author | Description of Changes |
 | :--- | :--- | :--- | :--- | :--- |
-| **1.0** | 14-Dec-2025 | ECO-2601 | [Your Name] | Initial Release |
+| **1.0** | 14-Dec-2025 | ECO-2601 | Vinoj John | Initial Release |
 
 ---
 
