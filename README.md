@@ -18,7 +18,7 @@ My expertise is unique because I speak both languages:
 ### 🛠️ Hardware & Engineering (S1000D / ATA Standards)
 *Leveraging my background at Quest Global & Lionbridge to document avionics and heavy machinery.*
 
-#### [1. Service Manual: Titan-X5 Optical Inspection Unit](./TITAN_X5_OPTICAL_INSPECTION_UNIT.md)
+#### [1. Service Manual: Titan-X5 Optical Inspection Unit](./titan_x5_optical_inspection_unit.md)
 A regulatory-compliant service manual for a high-voltage industrial inspection machine.
 * **Skills Applied:** Risk Assessment (**ANSI Z535**), LOTO procedures, Maintenance Logic.
 * **Standards:** **ASD-STE100** (Simplified Technical English), ISO 7010.
