@@ -1,4 +1,6 @@
 # API Documentation: SoundDate Profile Audio
+[Click here to download API Documentation Sample.docx](https://github.com/user-attachments/files/24196040/API.Documentation.Sample.-.Vinoj.docx)
+
 
 **Base URL:** `https://api.sounddate.com
 
