@@ -5,7 +5,7 @@
 
 ## Document Samples
 
-| Category | Document Title | Description |
+| Category | Document Title | Description ||
 | :--- | :--- | :--- |
 | **Hardware Documentation** *(ASD-STE Standard)* | [**Service Manual: Titan-X5 Optical Inspection Unit**](./titan_x5_optical_inspection_unit.md) | Service manual for a semiconductor wafer inspection tool. |
 | **Software Documentation** *(MSTP Standard)* | [**User Guide: HandBrake Video Transcoder**](./handbrake_guide.md) | A comprehensive end-user guide focused on installation and GUI configuration. |
