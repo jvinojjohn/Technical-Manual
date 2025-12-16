@@ -130,4 +130,4 @@ The following table lists the returned HTTP status codes.
 | **200** | Ok | Request processed successfully (File uploaded or List retrieved). |
 | **401** | Unauthorized | Authentication failed or token missing. |
 | **404** | Not Found | The specified User ID was not found (for GET requests). | 
-| **413** | Request Entity Too Large | Uploaded sound file is longer than 5 minutes. |
+| **413** | Request Entity Too Large | Uploaded sound file is longer than 5 minutes.. |
