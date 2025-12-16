@@ -1,6 +1,6 @@
 # API Documentation: SoundDate Profile Audio
 
-[📥 **Download this documentation as a Word File (.docx)**]
+[**Download this documentation as a Word File (.docx)**]
 
 **Base URL:** `https://api.sounddate.com`
 
