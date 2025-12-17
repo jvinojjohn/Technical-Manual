@@ -194,6 +194,7 @@ At the end of the product's service life, the Titan-X5 must be disposed of in ac
 ### 5.2 Recycling
 * **Steel/Aluminum Chassis:** 100% Recyclable. Remove all plastic covers before scrapping.
 * **Cabling:** Strip copper wiring for recycling.
+
 ---
 
 ## 6. APPENDIX A: ABBREVIATIONS & ACRONYMS
