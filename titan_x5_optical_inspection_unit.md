@@ -37,6 +37,7 @@
     * [5.1 Hazardous Materials Removal](#51-hazardous-materials-removal)
     * [5.2 Recycling](#52-recycling)
 * [6. APPENDIX A: ABBREVIATIONS & ACRONYMS](#6-appendix-a-abbreviations--acronyms)
+
 ---
 
 ## 1. SAFETY & COMPLIANCE
