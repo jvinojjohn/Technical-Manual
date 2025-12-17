@@ -119,11 +119,9 @@ The X-Y stage is driven by linear motors with linear encoder feedback.
     * *Caution:* Do not touch the linear encoder scale (gold strip). Acid from fingerprints can degrade the scale.
 <img width="344" height="260" alt="image" src="https://github.com/user-attachments/assets/f6deb584-6225-41a5-bdea-743e8d5e3e82" />
 
-3.  Locate the grease nipple on the four runner blocks (2 per axis).  
-4. Pump the grease gun twice (approx. 0.5cc) into each nipple.
+3.  Locate the grease gun on the four runner blocks (2 per axis) and pump the grease twice (approx. 0.5cc) into each nipple.
 <img width="337" height="266" alt="image" src="https://github.com/user-attachments/assets/5cac83ed-1e17-4090-8da5-c036d8c7818d" />
 <img width="334" height="251" alt="image" src="https://github.com/user-attachments/assets/e821aa9f-c7a1-4813-9c7a-14a6dc4cd7dc" />
-
 
 5.  Manually push the stage slowly from end-to-end three times to distribute the grease evenly.
 <img width="340" height="255" alt="image" src="https://github.com/user-attachments/assets/7af713c7-999c-49ee-aaa3-1a205d86f2c6" />
