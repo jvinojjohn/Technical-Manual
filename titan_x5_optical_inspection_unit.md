@@ -127,7 +127,7 @@ The X-Y stage is driven by linear motors with linear encoder feedback.
 4.  Manually push the stage slowly from end-to-end three times to distribute the grease evenly.
 <img width="340" height="255" alt="image" src="https://github.com/user-attachments/assets/7af713c7-999c-49ee-aaa3-1a205d86f2c6" />
 
-5.  Check for any binding or excessive friction.
+5.  Check for any binding or excessive friction.  
 <img width="338" height="250" alt="image" src="https://github.com/user-attachments/assets/9e5fc397-9d01-4a3a-a59b-61cf4b2f7baf" />
 
 
