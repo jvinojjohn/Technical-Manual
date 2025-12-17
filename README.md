@@ -9,7 +9,7 @@
 | :--- | :--- | :--- |
 | **Hardware Documentation** *(ASD-STE Standard)* | [**Service Manual: Titan-X5 Optical Inspection Unit**](./titan_x5_optical_inspection_unit.md) | Service manual for a semiconductor wafer inspection tool. |
 | **Software Documentation** *(MSTP Standard)* | [**User Guide: HandBrake Video Transcoder**](./handbrake_guide.md) | A comprehensive end-user guide focused on installation and GUI configuration. |
-| **API Documentation**  | [**API Reference: SoundDate User Profile**](./SoundDate_API1.md) | A RESTful API reference documenting endpoints for user media management. |
+| **API Documentation** *(Web API)*  | [**API Reference: SoundDate User Profile**](./SoundDate_API1.md) | A RESTful API reference documenting endpoints for user media management. |
 
 ---
 
