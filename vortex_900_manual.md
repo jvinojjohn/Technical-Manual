@@ -116,7 +116,7 @@ Before applying power, verify insulation integrity.
 
 1.  Disconnect neutral-to-ground bond (if applicable).
 2.  Apply **1000V DC** between Phase and Ground.
-3.  **Pass Criteria:** Resistance must be > 100 MΩ.
+    * **Pass Criteria:** Resistance must be > 100 MΩ.
 
 ### 5.2 Phase Rotation Check
 1.  Close the upstream feeder breaker (Power ON).
