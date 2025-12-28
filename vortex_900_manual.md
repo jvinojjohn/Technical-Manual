@@ -81,8 +81,8 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
     * **Note:** Make sure that the cable bend radius is more than 8 times the cable diameter. This prevents stress on the lugs.   
 
 *Figure 4.1: Input Termination Block*  
-    <img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/e9c2bfe9-de0f-4e46-a485-809f4f3b89cb" />
-
+    <img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/e9c2bfe9-de0f-4e46-a485-809f4f3b89cb" />  
+    
 4.  Tighten the lug set screws. Refer to Table 4.1 for the torque values.
 
 *Table 4.1: Input Termination Block*
@@ -91,7 +91,7 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 | :--- | :--- | :--- | :--- |
 | \#4 - 2/0 | 6 mm | 15 Nm | 132 in-lb |
 | 3/0 - 4/0 | 8 mm | 22 Nm | 194 in-lb |
-| 250 - 350 | 10 mm | 30 Nm | 265 in-lb |
+| 250 - 350 | 10 mm | 30 Nm | 265 in-lb |  
 
 5.  Install the Safety Shield again. 
 >WARNING!: Do not supply power to the unit if the shield is not in position.
