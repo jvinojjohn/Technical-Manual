@@ -93,8 +93,6 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 | 3/0 - 4/0 | 8 mm | 22 Nm | 194 in-lb |
 | 250 - 350 | 10 mm | 30 Nm | 265 in-lb |
 
-    <img width="335" height="255" alt="image" src="https://github.com/user-attachments/assets/1ccdd04c-4e60-4616-85bb-ddc235afd1c4" />
-
 5.  Install the Safety Shield again. 
 >WARNING!: Do not supply power to the unit if the shield is not in position.
 
