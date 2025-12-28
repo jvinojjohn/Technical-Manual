@@ -84,14 +84,14 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
     
 4.  Tighten the lug set screws. Refer to Table 4.1 for the torque values.
 *Table 4.1: Input Termination Block*
-
+ 
 | Wire Size (AWG/kcmil) | Socket Size (Hex) | Torque (Nm) | Torque (in-lb) |
 | :--- | :--- | :--- | :--- |
 | \#4 - 2/0 | 6 mm | 15 Nm | 132 in-lb |
 | 3/0 - 4/0 | 8 mm | 22 Nm | 194 in-lb |
 | 250 - 350 | 10 mm | 30 Nm | 265 in-lb |  
 
-5.  Install the Safety Shield again. 
+Install the Safety Shield again. 
 >WARNING!: Do not supply power to the unit if the shield is not in position.
 
   <img width="326" height="250" alt="image" src="https://github.com/user-attachments/assets/fe4d2120-ea3e-4c8d-9bbe-42f8bba231c5" />
