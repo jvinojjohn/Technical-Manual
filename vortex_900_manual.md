@@ -79,12 +79,10 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 
 3.  Connect the cables to the mechanical lugs on the Input Breaker (CB-01).
     * **Note:** Make sure that the cable bend radius is more than 8 times the cable diameter. This prevents stress on the lugs.   
-
 *Figure 4.1: Input Termination Block*  
-    <img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/e9c2bfe9-de0f-4e46-a485-809f4f3b89cb" />  
+    <img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/e9c2bfe9-de0f-4e46-a485-809f4f3b89cb" />
     
 4.  Tighten the lug set screws. Refer to Table 4.1 for the torque values.
-
 *Table 4.1: Input Termination Block*
 
 | Wire Size (AWG/kcmil) | Socket Size (Hex) | Torque (Nm) | Torque (in-lb) |
