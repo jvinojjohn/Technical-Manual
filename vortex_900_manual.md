@@ -54,11 +54,11 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 
     <img width="344" height="172" alt="image" src="https://github.com/user-attachments/assets/51ddc0b4-cdfc-4acb-926b-221f929a965e" />
 
-3.   Using the pallet jack, position the unit over the drilled anchor holes.
-
+3.   Using the pallet jack, position the unit over the drilled anchor holes.  
     <img width="334" height="168" alt="image" src="https://github.com/user-attachments/assets/0245868e-2c98-4c42-8206-c82e14ba298b" />
 
 4.  Insert the four **M16 x 100mm expansion anchors**.
+
 5.  Level the unit using the adjustable feet until the spirit level indicates < 0.5° tilt in both X and Y axes.
     <img width="337" height="169" alt="image" src="https://github.com/user-attachments/assets/442bfb7c-bc35-4d32-948e-bb1081400aed" />
 
@@ -82,17 +82,18 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 
 *Figure 4.1: Input Termination Block*  
     <img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/e9c2bfe9-de0f-4e46-a485-809f4f3b89cb" />
-
+    
 4.  Tighten the lug set screws. Refer to Table 4.1 for the torque values.
 
 *Table 4.1: Input Termination Block*
+
 | Wire Size (AWG/kcmil) | Socket Size (Hex) | Torque (Nm) | Torque (in-lb) |
 | :--- | :--- | :--- | :--- |
-| #4 - 2/0 | 6 mm | 15 Nm | 132 in-lb |
+| \#4 - 2/0 | 6 mm | 15 Nm | 132 in-lb |
 | 3/0 - 4/0 | 8 mm | 22 Nm | 194 in-lb |
 | 250 - 350 | 10 mm | 30 Nm | 265 in-lb |
 
-  <img width="335" height="255" alt="image" src="https://github.com/user-attachments/assets/1ccdd04c-4e60-4616-85bb-ddc235afd1c4" />
+    <img width="335" height="255" alt="image" src="https://github.com/user-attachments/assets/1ccdd04c-4e60-4616-85bb-ddc235afd1c4" />
 
 5.  Install the Safety Shield again. 
 >WARNING!: Do not supply power to the unit if the shield is not in position.
