@@ -62,7 +62,7 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 5.  Level the unit using the adjustable feet until the spirit level indicates < 0.5° tilt in both X and Y axes.
 <img width="337" height="169" alt="image" src="https://github.com/user-attachments/assets/442bfb7c-bc35-4d32-948e-bb1081400aed" />
 
-7.  Tighten the anchor nuts. **Torque to 80 Nm (59 ft-lb).**
+6.  Tighten the anchor nuts. **Torque to 80 Nm (59 ft-lb).**
 
 ---
 
@@ -71,10 +71,10 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 ### 4.1 Input Power Cabling (Line Side)
 **Cable Spec:** 4/0 AWG Copper, 90°C rated insulation.
 
-1.  Remove the **Safety Shield** (Polycarbonate) from the input busbars.
+1.  Remove the **Safety Shield** (Polycarbonate) from the input busbars.  
     <img width="332" height="514" alt="image" src="https://github.com/user-attachments/assets/26dd353c-ea33-4a7f-a0cf-350c0ff8ee51" />
 
-2.  Remove **25 mm** of insulation from the input cables (L1, L2, L3, Ground).
+2.  Remove **25 mm** of insulation from the input cables (L1, L2, L3, Ground).  
     <img width="329" height="261" alt="image" src="https://github.com/user-attachments/assets/917c71ca-274e-481a-8e55-bc91689e9f48" />
 
 3.  Connect the cables to the mechanical lugs on the Input Breaker (CB-01).
