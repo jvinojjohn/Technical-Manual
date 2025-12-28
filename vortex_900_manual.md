@@ -1,4 +1,4 @@
-# INSTALLATION MANUAL: VORTEX-900 INDUSTRIAL POWER UNIT
+u# INSTALLATION MANUAL: VORTEX-900 INDUSTRIAL POWER UNIT
 
 **Document ID:** IM-VTX900-04 | **Rev:** 2.1 | **Date:** 12-Dec-2025
 **Applicable Models:** VTX-900-A (480V), VTX-900-E (400V)
@@ -49,20 +49,20 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 
 <img width="341" height="170" alt="image" src="https://github.com/user-attachments/assets/a7f92518-b021-4e8d-a4d5-450575a9353d" />
 
-3.  Inspect the **Shock Watch** indicator on the chassis.  
+2.  Inspect the **Shock Watch** indicator on the chassis.  
   If red, halt the installation and contact Logistics.
 
 <img width="344" height="172" alt="image" src="https://github.com/user-attachments/assets/51ddc0b4-cdfc-4acb-926b-221f929a965e" />
 
-5.  Using the pallet jack, position the unit over the drilled anchor holes.
+3.   Using the pallet jack, position the unit over the drilled anchor holes.
 
 <img width="334" height="168" alt="image" src="https://github.com/user-attachments/assets/0245868e-2c98-4c42-8206-c82e14ba298b" />
 
-6.  Insert the four **M16 x 100mm expansion anchors**.
-7.  Level the unit using the adjustable feet until the spirit level indicates < 0.5° tilt in both X and Y axes.
+4.  Insert the four **M16 x 100mm expansion anchors**.
+5.  Level the unit using the adjustable feet until the spirit level indicates < 0.5° tilt in both X and Y axes.
 <img width="337" height="169" alt="image" src="https://github.com/user-attachments/assets/442bfb7c-bc35-4d32-948e-bb1081400aed" />
 
-8.  Tighten the anchor nuts. **Torque to 80 Nm (59 ft-lb).**
+7.  Tighten the anchor nuts. **Torque to 80 Nm (59 ft-lb).**
 
 ---
 
@@ -72,16 +72,16 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 **Cable Spec:** 4/0 AWG Copper, 90°C rated insulation.
 
 1.  Remove the **Safety Shield** (Polycarbonate) from the input busbars.
-<img width="332" height="514" alt="image" src="https://github.com/user-attachments/assets/26dd353c-ea33-4a7f-a0cf-350c0ff8ee51" />
+    <img width="332" height="514" alt="image" src="https://github.com/user-attachments/assets/26dd353c-ea33-4a7f-a0cf-350c0ff8ee51" />
 
 2.  Remove **25 mm** of insulation from the input cables (L1, L2, L3, Ground).
-<img width="329" height="261" alt="image" src="https://github.com/user-attachments/assets/917c71ca-274e-481a-8e55-bc91689e9f48" />
+    <img width="329" height="261" alt="image" src="https://github.com/user-attachments/assets/917c71ca-274e-481a-8e55-bc91689e9f48" />
 
 3.  Connect the cables to the mechanical lugs on the Input Breaker (CB-01).
     * **Note:** Make sure that the cable bend radius is more than 8 times the cable diameter. This prevents stress on the lugs.   
 
 *Figure 4.1: Input Termination Block*  
-<img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/e9c2bfe9-de0f-4e46-a485-809f4f3b89cb" />
+    <img width="332" height="268" alt="image" src="https://github.com/user-attachments/assets/e9c2bfe9-de0f-4e46-a485-809f4f3b89cb" />
 
 
 4.  Tighten the lug set screws. Refer to Table 4.1 for the torque values.
@@ -93,13 +93,13 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 | 3/0 - 4/0 | 8 mm | 22 Nm | 194 in-lb |
 | 250 - 350 | 10 mm | 30 Nm | 265 in-lb |
 
-<img width="335" height="255" alt="image" src="https://github.com/user-attachments/assets/1ccdd04c-4e60-4616-85bb-ddc235afd1c4" />
+  <img width="335" height="255" alt="image" src="https://github.com/user-attachments/assets/1ccdd04c-4e60-4616-85bb-ddc235afd1c4" />
 
 
 5.  Install the Safety Shield again. 
 >WARNING!: Do not supply power to the unit if the shield is not in position.
 
-<img width="326" height="250" alt="image" src="https://github.com/user-attachments/assets/fe4d2120-ea3e-4c8d-9bbe-42f8bba231c5" />
+  <img width="326" height="250" alt="image" src="https://github.com/user-attachments/assets/fe4d2120-ea3e-4c8d-9bbe-42f8bba231c5" />
 
 
 ### 4.2 Control & Signal Wiring (Low Voltage)
