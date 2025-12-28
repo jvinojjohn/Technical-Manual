@@ -45,21 +45,21 @@ The VTX-900 requires **Seismic Zone 4** anchoring.
 ### 3.1 Uncrating and Positioning
 **Tools Required:** Pallet Jack (2-ton capacity), Spirit Level, 19mm Socket Wrench.
 
-1.  Remove the outer plywood crating.
+1.  Remove the outer plywood crating.  
 <img width="341" height="170" alt="image" src="https://github.com/user-attachments/assets/a7f92518-b021-4e8d-a4d5-450575a9353d" />
 
-2.  Inspect the **Shock Watch** indicator on the chassis.  
-  If red, halt the installation and contact Logistics.
+3.  Inspect the **Shock Watch** indicator on the chassis.  
+  If red, halt the installation and contact Logistics.  
 <img width="344" height="172" alt="image" src="https://github.com/user-attachments/assets/51ddc0b4-cdfc-4acb-926b-221f929a965e" />
 
-3.  Using the pallet jack, position the unit over the drilled anchor holes.
+4.  Using the pallet jack, position the unit over the drilled anchor holes.
 <img width="334" height="168" alt="image" src="https://github.com/user-attachments/assets/0245868e-2c98-4c42-8206-c82e14ba298b" />
 
-4.  Insert the four **M16 x 100mm expansion anchors**.
-5.  Level the unit using the adjustable feet until the spirit level indicates < 0.5° tilt in both X and Y axes.
+5.  Insert the four **M16 x 100mm expansion anchors**.
+6.  Level the unit using the adjustable feet until the spirit level indicates < 0.5° tilt in both X and Y axes.
 <img width="337" height="169" alt="image" src="https://github.com/user-attachments/assets/442bfb7c-bc35-4d32-948e-bb1081400aed" />
 
-6.  Tighten the anchor nuts. **Torque to 80 Nm (59 ft-lb).**
+7.  Tighten the anchor nuts. **Torque to 80 Nm (59 ft-lb).**
 
 ---
 
